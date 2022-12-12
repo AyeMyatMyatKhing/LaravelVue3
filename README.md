@@ -5,4 +5,5 @@
 - MySQL
 - Node
 ## Clone
-- git clone 
+- git clone https://github.com/AyeMyatMyatKhing/LaravelVue3.git
+
