@@ -4,3 +4,5 @@
 - Laravel 
 - MySQL
 - Node
+## Clone
+- git clone 
