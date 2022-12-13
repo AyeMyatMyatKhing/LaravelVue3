@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <router-link class="btn btn-danger" :to="{name:'login'}">Login</router-link>
   </div>
 </template>
 
